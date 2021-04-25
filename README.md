@@ -1,3 +1,3 @@
 # GadgetBudgetPlatform
 
-Help young researched to sell their products through online platform.
+Help young researches to sell their products through online platform.
